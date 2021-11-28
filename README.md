@@ -14,6 +14,8 @@ Here is the virustotal link (setup file): https://www.virustotal.com/gui/file/98
 
 If you want to download the setup file, Here is a MediaFire Link since GitHub has a 25mb limit: https://www.mediafire.com/file/lt44191vm32s5pd/mysetup.exe/file 
 
+Source Code?
+Well I can't upload the Project itself but you can get the source code through a decompiler like JustDecompile which will allow you to see how the app works
+I will be adding a tutorial video and an explaining video in the future on my YouTube Channel.
 
-How to I download it officially?
-Well the .zip file is given
+If you want to help me with this Project then consider joining my Discord (Coming Soon)
